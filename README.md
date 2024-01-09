@@ -2,7 +2,7 @@
 An program that let's you easily create minecraft datapacks,
 
 # More about
-Datapacker, let's you easily create minecraft datapacks, using the [LUA programming language](https://www.lua.org/)
+Datapacker, let's you easily create minecraft datapacks.
 
 # Why use Datapacker++
 It offers or will offer:
